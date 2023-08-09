@@ -1,39 +1,50 @@
 {
-  "version": 2.0,
-  "questions": [
-    {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "In time state machine all inputs are synchronized with",
+        "answers": {
+          "a": "Master clock",
+          "b": "Clock pulses",
+          "c": "Counter",
+          "d": "Latch"
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      {
+        "question": "In designing Algorithmic State Machine (ASM) with multiplexers, the registers hold",
+        "answers": {
+          "a": "Present binary state",
+          "b": "Input",
+          "c": "Next binary state",
+          "d": "Output"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+      {
+        "question": "A state table for a controller is a list of present states and inputs and their corresponding",
+        "answers": {
+          "a": "Pervious states and output",
+          "b": "Next states and outputs",
+          "c": "Current states",
+          "d": "No state"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
-  ]
-}
+      {
+        "question": "The logic circuits whose outputs at any instant of time depends only on the present input but also on the past outputs are called",
+        "answers": {
+          "a": "Sequential circuits",
+          "b": "Flip-flop",
+          "c": "Latches",
+          "d": "Combinational circuits"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      }
+    ]
+  }
+  
