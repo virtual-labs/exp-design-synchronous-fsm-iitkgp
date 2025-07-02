@@ -1,6 +1,6 @@
 # Theory:
 
-To design a Synchronous finite state machine, following steps are followed.
+To design a synchronous finite state machine, following steps are followed.
 1. Word Statement of The Problem
 2. Design State Diagram
 3. Design State Table
@@ -26,7 +26,7 @@ Here are the steps to build a binary adder using the above steps. [Ref. https://
 </center>
 
 
-3. Excitation table with D FlipFlop & Expression reduction using k-maps.
+3. Excitation table with D Flip-Flop & Expression reduction using K-maps.
 
 <center>
 <img src="./images/E10p3.png" style="width:50%">
