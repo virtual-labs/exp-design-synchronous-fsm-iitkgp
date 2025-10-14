@@ -2,7 +2,7 @@
     "version": 2.0,
     "questions": [
       {
-        "question": "In finate state machine, all inputs are synchronized with",
+        "question": "In finite state machine, all inputs are synchronized with",
         "answers": {
           "a": "Master clock",
           "b": "Clock pulses",
