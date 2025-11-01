@@ -1,0 +1,39 @@
+{
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "How many selected lines does an 8-line to 1-line multiplexer require?",
+        "answers": {
+          "a": "2",
+          "b": "3",
+          "c": "4",
+          "d": "8"
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "Finite state machines are used for",
+        "answers": {
+          "a": "Deterministic test patterns",
+          "b": "Algorithmic test patterns",
+          "c": "Random test patterns",
+          "d": "Pseudo random test patterns"
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "In finite state machine the data in and data out are",
+        "answers": {
+          "a": "In same ports",
+          "b": "Different ports",
+          "c": "Same register",
+          "d": "Different register"
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
+      }
+    ]
+  }
+  
